@@ -13,6 +13,6 @@ A CNN built using PyTorch which classifies Cats and Dogs
   
 **I have uploaded the .yml file for the env**
 
-***Model Accuracy : 95%***
+***Model Accuracy : 85%***
 
 [Link to the DataSet](https://drive.google.com/file/d/1fuFurVV8rcrVTAFPjhQvzGLNdnTi1jWZ/view)
